@@ -1,0 +1,23 @@
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Java / Maven
+target/
+*.class
+hs_err_pid*.log
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
