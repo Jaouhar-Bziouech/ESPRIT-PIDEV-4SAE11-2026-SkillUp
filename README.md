@@ -4,20 +4,22 @@
 
 | System Health | Frontend | Deployment |
 |:---:|:---:|:---:|
-| [![Main Aggregator](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-aggregator.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-aggregator.yml) | [![Frontend CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-frontend.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-frontend.yml) | [![CD - Docker Publish](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/cd-publish.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/cd-publish.yml) |
+| [![Main Aggregator](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-aggregator.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-aggregator.yml) | [![Frontend CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-frontend.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-frontend.yml) | [![CD - Docker Publish](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/cd-publish.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/cd-publish.yml) |
 
 ### 🧩 Microservices Build Status
 
 | Core Services | Platform Services | Domain Services |
 |:---|:---|:---|
-| [![Course CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-course.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-course.yml) <br> [![Formation CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-formation.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-formation.yml) <br> [![Quiz CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-quiz.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-quiz.yml) <br> [![Certificat CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-certificat.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-certificat.yml) <br> [![Resume Parser CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-resume-parser.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-resume-parser.yml) | [![User CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-user.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-user.yml) <br> [![Payment CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-payment.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-payment.yml) <br> [![Config Server CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-config-server.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-config-server.yml) <br> [![Eureka CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-eureka.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-eureka.yml) <br> [![Gateway CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-gateway.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-gateway.yml) | [![EventGestion CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-eventGestion.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-eventGestion.yml) <br> [![Job Offer CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-job-offer.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-job-offer.yml) <br> [![Internship Service CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-internship-service.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-internship-service.yml) <br> [![Entreprise CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-entreprise.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-entreprise.yml) <br> [![Forum CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-forum.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-forum.yml) <br> [![Ticket CI](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-ticket.yml/badge.svg)](https://github.com/Jawher-Bziouech/Team_elevate/actions/workflows/ci-ticket.yml) |
+| [![Course CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-course.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-course.yml) <br> [![Formation CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-formation.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-formation.yml) <br> [![Quiz CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-quiz.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-quiz.yml) <br> [![Certificat CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-certificat.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-certificat.yml) <br> [![Resume Parser CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-resume-parser.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-resume-parser.yml) | [![User CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-user.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-user.yml) <br> [![Payment CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-payment.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-payment.yml) <br> [![Config Server CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-config-server.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-config-server.yml) <br> [![Eureka CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-eureka.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-eureka.yml) <br> [![Gateway CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-gateway.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-gateway.yml) | [![EventGestion CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-eventGestion.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-eventGestion.yml) <br> [![Job Offer CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-job-offer.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-job-offer.yml) <br> [![Internship Service CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-internship-service.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-internship-service.yml) <br> [![Entreprise CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-entreprise.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-entreprise.yml) <br> [![Forum CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-forum.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-forum.yml) <br> [![Ticket CI](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-ticket.yml/badge.svg)](https://github.com/Jawher-Bziouech/ESPRIT-PIDEV-4SAE11-2026-SkillUp/actions/workflows/ci-ticket.yml) |
 
 ---
 
 ## Overview
 This project was developed as part of the PIDEV – 4th Year Engineering Program at **Esprit School of Engineering** (Academic Year 2025–2026).
 
-SkillUp is a full-stack microservices web application that enables teams to manage formations, quizzes, events, payments, job offers, ticketing, forum discussions, and gamification.
+SkillUp is a team-built full-stack learning and career platform based on a microservices architecture. It combines training management with quizzes and certifications, events, payments, job and internship opportunities, community features, support ticketing, and gamification.
+
+> **Team project:** SkillUp was developed collaboratively by six engineering students. The repository documents the complete team solution; individual contributors worked across different functional and technical areas.
 
 ## Features
 - 🎓 Formation & Course management
@@ -89,15 +91,24 @@ graph TD
 | `forum` | - | Forum discussions |
 | `job-offer` | - | Job offers |
 
+## DevOps & Deployment
+- Dockerized services
+- Kubernetes deployment manifests
+- kubeadm-based multi-node cluster setup
+- GitHub Actions CI workflows
+- CodeQL security analysis
+- Prometheus / Grafana monitoring
+- Horizontal Pod Autoscaling (HPA) for selected services
+
 ## Contributors
 | Name | Role |
 |------|------|
-| Jawher Bziouech | Full-stack Developer |
+| Jaouhar Bziouech | Full-stack Developer |
 | wassim hamouda | Full-stack Developer |
 | rania regai | Full-stack Developer |
 | hadir ghallabi | Full-stack Developer |
 | malek maaroufi | Full-stack Developer |
-| mehdi chebbi | Full-stack Developers |
+| mehdi chebbi | Full-stack Developer |
 
 ## Academic Context
 Developed at **Esprit School of Engineering** – Tunisia
@@ -111,15 +122,19 @@ PIDEV – 4sae11 | 2025–2026
 ### Backend
 ```bash
 # Start in this order:
+# Application source is currently preserved in the original team-project directory:
+cd "Team_elevate-main (3)/Team_elevate-main/Team_elevate-main"
+
+# Start the infrastructure services first:
 cd backEnd/microservices/eureka-server && mvn spring-boot:run
-cd backEnd/microservices/config-server && mvn spring-boot:run
-cd backEnd/microservices/gateway && mvn spring-boot:run
+cd ../config-server && mvn spring-boot:run
+cd ../gateway && mvn spring-boot:run
 # Then start other microservices
 ```
 
 ### Frontend
 ```bash
-cd skillup_front
+cd "Team_elevate-main (3)/Team_elevate-main/Team_elevate-main/skillup_front"
 npm install
 ng serve
 # Open http://localhost:4200
